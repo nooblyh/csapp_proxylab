@@ -1,0 +1,9 @@
+*.o
+proxy
+adder
+tiny
+
+.noproxy
+.proxy
+
+a.html
